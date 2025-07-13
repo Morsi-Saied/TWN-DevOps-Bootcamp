@@ -1,6 +1,6 @@
 # 🚀 DevOps Bootcamp by TechWorld with Nana
 
-![DevOps Banner]([https://devopscontainer.com/img/DEVOPS.gif](https://tatweerit-my.sharepoint.com/:i:/p/msaeed/EUAU_xau-lJOqrnMolF8g-IBOB93k5D4MX5OIbvHhvEEWw?e=yPzAvf))
+![DevOps Banner](https://devopscontainer.com/img/DEVOPS.gif)
 
 Welcome to my learning journey through the **TechWorld with Nana DevOps Bootcamp**! This bootcamp is a hands-on, real-world driven course that covers the **entire DevOps toolchain**, step by step.
 
