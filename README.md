@@ -15,7 +15,7 @@ Welcome to my learning journey through the **TechWorld with Nana DevOps Bootcamp
 | # | Module | Description |
 |--|--------|-------------|
 | 1 | **Intro to DevOps** | What is DevOps? Culture, roles, and why it matters. |
-| 2 | **Linux for DevOps** | Essential Linux commands, bash scripting, file systems, permissions. |
+| 2 | **Operating Systems & Linux Basics** | Essential Linux commands, bash scripting, file systems, permissions. |
 | 3 | **Networking** | TCP/IP, DNS, Ports, HTTP/HTTPS, Load Balancing basics. |
 | 4 | **Git & GitHub** | Git fundamentals, GitHub workflows, branching strategies. |
 | 5 | **CI/CD** | Jenkins setup, pipelines, GitHub Actions basics. |
